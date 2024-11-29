@@ -1,0 +1,1 @@
+This is to check what happens if I add a file from my second branch and commit it. Seventh exercise, point 7.
